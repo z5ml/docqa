@@ -1,6 +1,6 @@
+.env
+.venv/
 __pycache__/
 *.pyc
-.venv/
-.env
-data/*.pdf
-*.faiss
+.DS_Store
+data/

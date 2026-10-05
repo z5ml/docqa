@@ -1,4 +1,5 @@
 openai
-python-dotenv
-pypdf
 faiss-cpu
+numpy
+pypdf
+python-dotenv
